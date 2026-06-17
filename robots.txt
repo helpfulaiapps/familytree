@@ -1,0 +1,6 @@
+# Replace the .invalid placeholder domain with your real production domain before deployment.
+User-agent: *
+Allow: /
+Disallow: /app.html
+
+Sitemap: https://helpfulaiapps.github.io/familytree/sitemap.xml

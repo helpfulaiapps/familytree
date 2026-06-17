@@ -1,0 +1,18 @@
+# Exclude private family tree JSON databases
+private_tree.json
+*_private_tree.json
+data/private_tree.json
+*.json
+
+# Exclude local testing environment
+Testing environment/
+Testing environment /
+
+# Exclude OS generated files
+.DS_Store
+Thumbs.db
+
+# Exclude IDE and editor configurations
+.vscode/
+.idea/
+.claude/
